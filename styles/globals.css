@@ -1,5 +1,14 @@
 html,
 body {
+  text-align: center;
+  background-image: url('../public/dark_wall.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  min-width: 320px;
+  width: 100%;
+  font-size: 16px;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,

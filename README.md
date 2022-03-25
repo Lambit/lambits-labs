@@ -1,3 +1,9 @@
+## Lambit's Lend
+
+This is just me playing around with the Hack Juno testnet. The user is able to connect their keplr wallet and send testnet tokens to different wallets.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

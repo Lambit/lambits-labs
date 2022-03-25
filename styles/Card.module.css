@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+    .outterCard {
+        width: 10rem;
+    }
+}
+
+@media only screen and (max-width: 682px) {
+    .outterCard {
+        width: 5rem;
+    }
+}
